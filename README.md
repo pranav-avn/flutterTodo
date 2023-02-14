@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
-A ToDo App built in flutter to test my abilities !
+A ToDo App built in flutter to test my abilities 
 
-[Screenshot_1676390536](https://user-images.githubusercontent.com/92722256/218796822-ab411b68-db9c-44b1-b631-035b363cdca5.png)
+
+!(https://github.com/pranav-avn/flutterTodo/blob/ad3a458de4ff3f515a7d5a2bed59c5f392d7e7d8/AppScreencap.png)
